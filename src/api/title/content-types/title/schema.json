@@ -1,0 +1,13 @@
+{
+  "kind": "collectionType",
+  "collectionName": "url",
+  "info": {
+    "singularName": "title",
+    "pluralName": "url",
+    "displayName": "videos"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}
