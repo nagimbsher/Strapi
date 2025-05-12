@@ -1,7 +1,7 @@
 "use strict";
 /**
- * title service
+ * video service
  */
 Object.defineProperty(exports, "__esModule", { value: true });
 const strapi_1 = require("@strapi/strapi");
-exports.default = strapi_1.factories.createCoreService('api::title.title');
+exports.default = strapi_1.factories.createCoreService('api::video.video');
